@@ -167,3 +167,11 @@ nav {
     font-size: 40px;
     font-weight: bold;
 }
+
+@media screen and (max-width : 750px) {
+    .card {
+        justify-content: center;
+		width: auto;
+		height: auto;
+    }
+}
